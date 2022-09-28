@@ -1,8 +1,25 @@
-### Hey! 👋
+## Hey, call me Viki! 🌸
 
-My name is Viktoria and I am from Germany. 
+### Facts 
+- 🏡 Living in Germany 
+- 👩‍💻 Currently: Coding & Software Engineering Student
+- 💸 Previously: I worked six years as a bank clerk 
+- 🕵️ Specialized in fraud detection, data maintenance and payment transactions
+- 🥠 Last fortune cookie: "Your path is hard, but will be amply rewarding."
 
-Currently I am studying Coding & Software Engineering (B.Sc.) at the XU Exponential University in Potsdam but before that I worked as a bank clerk 
-in the fraud detection department. I know...completely different 😬
+### Interests
+- App Development
+- Design 
+- Artificial Intelligence 
+- Data Science 
 
-I am interested in App Development and UI/UX. I would love to connect and learn from everyone of you! 
+### Skills & Experience
+- Swift 
+- Java 
+- HTML, CSS, JS
+- Python (in progress) 
+
+
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/viktoria-hafner-7965a31bb/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/victoriaa.ha/)  

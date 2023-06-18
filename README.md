@@ -2,22 +2,28 @@
 
 ### Facts 
 - 🏡 Living in Germany 
+- 🪆 Languages: Fluent in German, Russian and English
 - 👩‍💻 Currently: Coding & Software Engineering Student
 - 💸 Previously: I worked six years as a bank clerk 
 - 🕵️ Specialized in fraud detection, data maintenance and payment transactions
+- 🔎 Working student in digital forensics in the field of eDiscovery at Deloitte GmbH
 - 🥠 Last fortune cookie: "Your path is hard, but will be amply rewarding."
 
 ### Interests
+- Cybersecurity
+- Digital Forensics - eDiscovery
+- Automation
+- Data Science
 - App Development
-- Design 
-- Artificial Intelligence 
-- Data Science 
+- Design
+
 
 ### Skills & Experience
 - Swift 
 - Java 
 - HTML, CSS, JS
-- Python (in progress) 
+- Python (in progress)
+- VBA
 
 
 

@@ -18,14 +18,6 @@
 - Design
 
 
-### Skills & Experience
-- Swift 
-- Java 
-- HTML, CSS, JS
-- Python (in progress)
-- VBA
-
-
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/viktoria-hafner-7965a31bb/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/victoriaa.ha/)  
